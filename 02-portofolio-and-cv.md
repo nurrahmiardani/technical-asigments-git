@@ -46,5 +46,8 @@
     git merge cv
 
 11. unggah Git Repository tersebut kedalam GitHub
-
     git push -u origin master
+    
+    
+<img width="596" alt="git log" src="https://user-images.githubusercontent.com/73676678/134170727-ce847f2d-05df-4e54-bf28-aedd1d46161e.PNG">
+
