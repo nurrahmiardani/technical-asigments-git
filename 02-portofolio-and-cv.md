@@ -49,5 +49,6 @@
     git push -u origin master
     
     
-<img width="596" alt="git log" src="https://user-images.githubusercontent.com/73676678/134170727-ce847f2d-05df-4e54-bf28-aedd1d46161e.PNG">
 
+
+<img width="596" alt="git log" src="https://user-images.githubusercontent.com/73676678/134171384-b1493752-b289-4dd7-9b1e-ca3615d6b41c.PNG">
